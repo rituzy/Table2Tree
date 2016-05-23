@@ -10,7 +10,7 @@ import java.util.Stack;
  */  
 ////////////////////////////////////////////////////////////////
 public class Tree{
-    private static final int NUM_SPACES = 36;
+    private static final int NUM_SPACES = 32;
     
     private Node root;             // first node of tree
     // referenct to main class as it holds souce data
